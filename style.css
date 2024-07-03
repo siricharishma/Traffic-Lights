@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-color: #86d2f2;
+    height: 100vh;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    color: #1f1d41;
+    font-weight: bold;
+    font-family: Roboto;
+    padding-top: 12px;
+}
+
+#stopButton {
+    margin-top: 70px;
+    border-radius: 10px;
+    height: 40px;
+    width: 75px;
+    background-color: #1f1d41;
+    color: white;
+    font-family: "Roboto";
+
+    margin-left: 425px;
+}
+
+#readyButton {
+    border-radius: 10px;
+    height: 40px;
+    width: 75px;
+    background-color: #f7c948;
+    color: white;
+    font-family: "Roboto";
+    margin: 10px;
+    margin-top: 40px;
+    margin-left: 425px;
+}
+
+#goButton {
+    margin-top: 40px;
+    margin-left: 425px;
+    border-radius: 10px;
+    height: 40px;
+    width: 75px;
+    background-color: #199473;
+    color: white;
+    font-family: "Roboto";
+}
+
+.bulb {
+    background-color: #4b5069;
+    height: 40px;
+    width: 40px;
+    margin: 25px;
+    margin-left: 30px;
+    border-radius: 50px;
+}
+
+.traffic-light {
+    margin-top: 50px;
+    height: 280px;
+    background-color: #1f1d41;
+    width: 100px;
+    margin-left: 25px;
+    border-radius: 35px;
+}
+
+#stopLight {
+    background-color: #1f1d41;
+
+}
+
+#readyLight {
+    background-color: #1f1d41;
+}
+
+#goLight {
+    background-color: #1f1d41;
+}
